@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+.btn{
+  margin: .5rem;
+  padding: .5rem;
+  border-radius: 10rem;
+}
