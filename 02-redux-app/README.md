@@ -1,5 +1,5 @@
 
-![NgRx](https://ngrx.io/assets/images/badge.svg )
+![NgRx](https://ngrx.io/assets/images/badge.svg | width=50)
 
 
 ## Documentation 
