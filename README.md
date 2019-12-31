@@ -1,8 +1,20 @@
-# Sección 2 Introducción 
+<img src="https://ngrx.io/assets/images/badge.svg" width="50%" >
+
+## Documentation 
 
 [Doc - EN ](https://redux.js.org/)
 
 [Doc - ES ](https://es.redux.js.org/)
+
+
+# REDUX lifecycle
+
+![NgRx lifecycle](https://ngrx.io/generated/images/guide/store/state-management-lifecycle.png
+ )
+
+
+# Sección 2 Introducción 
+
 
 
 **¿Qué es Redux?**

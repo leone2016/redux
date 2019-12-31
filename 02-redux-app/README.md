@@ -1,16 +1,4 @@
 
-![NgRx](https://ngrx.io/assets/images/badge.svg | width=50)
-
-
-## Documentation 
-npm install @ngrx/store --save
-
-
-# REDUX lifecycle
-
-![NgRx lifecycle](https://ngrx.io/generated/images/guide/store/state-management-lifecycle.png
- )
-
 
 ### steps to work 
 
