@@ -1,0 +1,8 @@
+{
+  "globalErrorHandlerMessages": {
+    "500":"Internal Error."
+  },
+  "spinner": {
+    "defaultMessage": "Loading..."
+  }
+}

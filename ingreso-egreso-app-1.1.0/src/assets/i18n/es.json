@@ -1,0 +1,12 @@
+{
+  "globalErrorHandlerMessages": {
+    "500":"Error Interno."
+  },
+  "spinner": {
+    "defaultMessage": "Cargando..."
+  },
+  "genericButtons": {
+    "cancel": "Cancelar",
+    "save": "Guardar"
+  }
+}

@@ -12,6 +12,9 @@
 ![NgRx lifecycle](https://ngrx.io/generated/images/guide/store/state-management-lifecycle.png
  )
 
+# Install
+
+[NgRx - store](https://ngrx.io/guide/store/install)
 
 # Sección 2 Introducción 
 

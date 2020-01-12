@@ -1,0 +1,25 @@
+<div class="modal-header">
+  <h3 class="modal-title">{{this.demoDialogData.title}}</h3>
+  <button (click)="this.close()" type="button" class="close" data-dismiss="modal" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<div class="modal-body">
+  <div fxLayout="row wrap ">
+    <div fxFlex.gt-sm="100" fxFlex="100">
+      <div>
+        <div class="row">
+          <div class="col">
+            {{this.demoDialogData.data}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal-footer">
+  <button mat-raised-button (click)="this.close()" type="button" class="btn"
+          data-dismiss="modal">{{'genericButtons.cancel' | translate}}</button>
+  <button mat-raised-button type="button" color="primary"
+          class="btn">{{'genericButtons.save' | translate}}</button>
+</div>
